@@ -1,6 +1,6 @@
 # go-teamhealthcheck
 
-[![Build Status](https://travis-ci.org/FelixGeelhaar/go-teamhealthcheck.svg?branch=master)](https://travis-ci.org/github/FelixGeelhaar/go-teamhealthcheck)
+![Build Status](https://github.com/FelixGeelhaar/go-teamhealthcheck/workflows/continous-test/badge.svg?branch=master)
 
 ## Content
 
