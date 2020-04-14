@@ -1,4 +1,4 @@
-package metrics
+package teamhealthcheck
 
 // Indicator defines red, yellow and green as health metric
 type Indicator struct {

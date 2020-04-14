@@ -1,4 +1,4 @@
-package metrics
+package teamhealthcheck
 
 // HealthMetric defines a metric within a Squad Health Check
 type HealthMetric struct {

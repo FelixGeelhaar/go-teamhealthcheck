@@ -1,4 +1,4 @@
-package metrics
+package teamhealthcheck
 
 import (
 	"fmt"
